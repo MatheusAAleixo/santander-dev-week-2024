@@ -8,16 +8,16 @@ classDiagram
     class User {
         +String name
         +Account account
-        +List<Feature> feature
+        +Feature[] features
         +Card card
-        +List<News> news
+        +New[] news
     }
 
     class Account {
         +String number
         +String agency
-        +String balance
-        +String limit
+        +number balance
+        +number limit
     }
 
     class Feature {
@@ -27,7 +27,7 @@ classDiagram
 
     class Card {
         +String number
-        +String limit
+        +Number limit
     }
 
     class News {
