@@ -1,40 +1,19 @@
-# Gradle files
 .gradle/
 build/
-
-# Local configuration file (Gradle)
 gradle-local.properties
-
-# IntelliJ IDEA
 .idea/
 *.iml
-
-# Eclipse
 .classpath
 .project
 .settings/
-
-# VS Code
 .vscode/
-
-# OS generated files
 .DS_Store
 Thumbs.db
-
-# Logs
 *.log
-
-# JAR files
 *.jar
-
-# Other build artifacts
 *.war
 *.ear
-
-# Temporary files
 *.tmp
 *.temp
-
-# Gradle Wrapper files
 gradle-wrapper.jar
 gradle-wrapper.properties
