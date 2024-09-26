@@ -1,5 +1,5 @@
 # Santander Dev Week 2024
-Java RESTful api criada para a santander Dev Week
+Java RESTful api criada para a santander Dev Week.
 
 # Diagrama de Classes
 
